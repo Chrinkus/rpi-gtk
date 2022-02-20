@@ -1,0 +1,8 @@
+# Project executables
+build
+*.out
+
+# Vim
+*.swo
+*.swp
+
